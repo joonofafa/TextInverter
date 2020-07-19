@@ -1,2 +1,2 @@
 # TextInverter
- Enhanced text reaplacing application.
+Enhanced text replacing application.
